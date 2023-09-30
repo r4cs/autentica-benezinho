@@ -1,5 +1,5 @@
 package br.com.fiap.pessoa.model;
-
+// ENUM nao gera notação !!!!
 public enum Sexo {
 
     FEMININO(0, "Feminino", 'F'), MASCULINO(1, "Masculino", 'M');
